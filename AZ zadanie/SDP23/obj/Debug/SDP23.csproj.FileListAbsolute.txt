@@ -1,6 +1,0 @@
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\bin\Debug\SDP23.dll
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\bin\Debug\SDP23.pdb
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\obj\Debug\SDP23.csproj.AssemblyReference.cache
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\obj\Debug\SDP23.csproj.CoreCompileInputs.cache
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\obj\Debug\SDP23.dll
-C:\Users\KamilPC\source\repos\AZ zadanie\SDP23\obj\Debug\SDP23.pdb
